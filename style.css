@@ -1,0 +1,33 @@
+h1{
+    color: pink;
+}
+
+body{
+    color: aliceblue;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(194, 31, 226), rgb(72, 211, 141) );
+}
+
+.tamanho{
+    width: 200px; margin: 5PX;
+}
+
+
+nav{
+    font-size: 30px;
+}
+
+nav li{
+    display: inline;
+    margin: 20% 20% 0 20%
+}
+
+a{
+    color:white;
+    text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: underline;
+}
